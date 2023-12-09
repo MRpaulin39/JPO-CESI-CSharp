@@ -15,9 +15,9 @@ Le principe de base est le suivant :
 Saurez-vous relever le challenge ?
 
 */
- 
 
-//1 - Générer un nombre aléatoire entre 0 et 100
+
+//1 - Générer un nombre aléatoire entre 1 et 100
 
 //2 - On demande à l'utilisateur d'entrer un nombre
 
